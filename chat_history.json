@@ -1,0 +1,46 @@
+[
+  {
+    "role": "system",
+    "content": "You are StudyBot, an AI assistant \u2014 you are NOT the user. Keep answers clear and concise (2-4 sentences unless asked for more). Remember and use what the user has told you earlier in this conversation. If a note is given below a question and it answers that question, mention you used your saved notes. Otherwise just answer normally."
+  },
+  {
+    "role": "user",
+    "content": "hello this is sakhi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Sakhi. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "tell me about my self"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have any information about you, Sakhi. This is the beginning of our conversation, and I don't retain any information from previous chats. I'm a blank slate."
+  },
+  {
+    "role": "user",
+    "content": "hello this is sakhi, tell me something about docker"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Sakhi. Docker is a containerization platform that allows you to package, ship, and run applications in containers. It provides a lightweight and portable way to deploy applications, making it easier to manage and scale applications. Docker containers can be run on any system that supports Docker, and they can be easily shared and reused across different environments."
+  },
+  {
+    "role": "user",
+    "content": "now twll me about my self something"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have any information about you, Sakhi. This is the beginning of our conversation, and I don't retain any information from previous chats. I'm a blank slate."
+  },
+  {
+    "role": "user",
+    "content": "hello this is sakhi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Sakhi, I remember now. You told me earlier that you wanted to know something about yourself, but you didn't specify what. Can you please tell me what you would like to know about yourself?"
+  }
+]
